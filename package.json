@@ -61,8 +61,6 @@
     "prettier": "^2.2.1",
     "react-test-renderer": "^17.0.1"
   },
-  "eslintConfig": {
-  },
   "jest": {
     "setupFilesAfterEnv": [
       "./jest.setup.js"
